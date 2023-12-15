@@ -1,0 +1,25 @@
+[gd_scene load_steps=2 format=3 uid="uid://86ahtf688fty"]
+
+[ext_resource type="Script" path="res://main.gd" id="1_sftl2"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_sftl2")
+
+[node name="PlayButton" type="Button" parent="."]
+offset_left = 429.0
+offset_top = 172.0
+offset_right = 671.0
+offset_bottom = 285.0
+text = "Play"
+
+[node name="QuitButton" type="Button" parent="."]
+anchors_preset = -1
+offset_left = 433.0
+offset_top = 325.0
+offset_right = 675.0
+offset_bottom = 451.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Quit"
+
+[connection signal="pressed" from="QuitButton" to="." method="_on_quit_button_pressed"]

@@ -1,0 +1,11 @@
+Where I got these background textures from
+https://www.youtube.com/watch?app=desktop&v=f8z4x6R7OSM
+
+Tutorial for platformer in godot:
+https://www.youtube.com/watch?v=43c-Sm5GMbc
+
+Assets:
+https://masayume.itch.io/pixel-art-fantasy-lands-1
+https://federico-calchera.itch.io/dark-vania
+https://brullov.itch.io/oak-woods
+https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
